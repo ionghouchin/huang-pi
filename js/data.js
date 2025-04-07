@@ -4,12 +4,12 @@ const bioData = {
             id: 1,
             name: "黃皮樹",
             category: "plants",
-            image: "./images/1.jpg",
+            image: "/huang-pi/images/1.jpg",
             images: [
-                "./images/1.jpg",
-                "./images/89c4b7da334728efb81bc95e764c5705.JPG",
-                "./images/602dbaf61033f5fb0ecce509283dd555.JPG",
-                "./images/1350d3ea2e0ac9daf22cfd4a793457d1.JPG"
+                "/huang-pi/images/1.jpg",
+                "/huang-pi/images/89c4b7da334728efb81bc95e764c5705.JPG",
+                "/huang-pi/images/602dbaf61033f5fb0ecce509283dd555.JPG",
+                "/huang-pi/images/1350d3ea2e0ac9daf22cfd4a793457d1.JPG"
             ],
             description: "小喬木，高3-10米，小枝無毛，棕褐色，單數羽狀複葉，對生；小葉7-9片，紙質，卵狀披針形。黄皮樹先端長漸尖，基部圓形或寬楔形，兩側不對稱，表面幾乎無毛或在中脈被疏長毛，中脈基部毛較密，邊緣有細圓鋸齒，小葉柄長2-7毫米，腹面被疏短毛。",
             distribution: "分佈於中國南方地區",
